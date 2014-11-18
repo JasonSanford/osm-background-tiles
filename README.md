@@ -6,7 +6,7 @@ A collection of custom background tiles for editing OpenStreetMap
 
 ### United States
 
-### Floridate
+### Florida
 
 * Pinellas County Aerial Photography - `http://egistest.pinellascounty.org/arcgis/rest/services/Aerials/Aerials2014/ImageServer/tile/{z}/{y}/{x}`
 
