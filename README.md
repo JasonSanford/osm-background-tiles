@@ -6,6 +6,13 @@ A collection of custom background tiles for editing OpenStreetMap
 
 ### United States
 
+### Colorado
+
+* Arapahoe County 4 Inch Resolution Aerial Photography - Zoom Levels: 18 - 21 `http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgis.arapahoegov.com%2Farcgis%2Frest%2Fservices%2FAccela%2FBackground%2FMapServer&transparent=true&layers=show%3A105`
+
+* Arapahoe County 1 Foot Resolution Aerial Photography - Zoom Levels: ? - 17 `http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgis.arapahoegov.com%2Farcgis%2Frest%2Fservices%2FAccela%2FBackground%2FMapServer&transparent=true&layers=show%3A106`
+
+
 ### Florida
 
 * Pinellas County Aerial Photography - `http://egistest.pinellascounty.org/arcgis/rest/services/Aerials/Aerials2014/ImageServer/tile/{z}/{y}/{x}`
