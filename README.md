@@ -25,7 +25,9 @@ A collection of custom background tiles for editing OpenStreetMap
 
 * Mecklenburg County Aerial Photography - `http://maps.ci.charlotte.nc.us/arcgis/rest/services/WEB/Aerial14/MapServer/tile/{z}/{y}/{x}`
 
-* Mecklenburg County Street - `http://maps.ci.charlotte.nc.us/arcgis/rest/services/WEB/BaseMap/MapServer/tile/{z}/{y}/{x}`
+* Mecklenburg County Roads - `http://maps.ci.charlotte.nc.us/arcgis/rest/services/WEB/BaseMap/MapServer/tile/{z}/{y}/{x}`
+
+* Union County Roads - `http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgis-web.co.union.nc.us%2Farcgis%2Frest%2Fservices%2FGoMaps%2FUnionGoMaps%2FMapServer&transparent=true&layers=show%3A15`
 
 * Watauga County Roads - `http://tileify-ags.herokuapp.com/tiles/{z}/{x}/{y}?url=http%3A%2F%2Fgisviewer.townofboone.net%2Farcgis%2Frest%2Fservices%2FDataLink_Centerlines_Labels_2%2FMapServer&transparent=true`
 
